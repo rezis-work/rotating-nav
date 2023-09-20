@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflox-x: hidden;
+}
+
 body {
   background-color: #333;
   color: #222;
